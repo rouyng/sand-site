@@ -41,7 +41,7 @@
     margin: 5px 5px 6px 5px;
     float: left;
     text-decoration:none;
-    background-color: #fecdb6;
+    background-color: #f5f7ee;
     border-bottom: 0;
 }
 .slicknav_btn:hover{
@@ -58,7 +58,7 @@
   background-color: #0de300;
 }
 .slicknav_menu {
-    background:#fecdb6;
+    background:#f5f7ee;
     padding:5px;
 }
 .slicknav_nav {

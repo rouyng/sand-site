@@ -40,10 +40,10 @@ th {
 dt{ font-weight:bold;}
 
 ::selection {
-  background: #ffb7b7; /* WebKit/Blink Browsers */
+  background: ##d6edcb; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: #ffb7b7; /* Gecko Browsers */
+  background: ##d6edcb; /* Gecko Browsers */
 }
 /*--------------------------------
   Layout
@@ -316,7 +316,7 @@ div#content > h1:first-child { display: none; }
 
 @media screen and (max-width: 650px) {
   body { font-size: 16px; 
-        background: linear-gradient(to bottom, #fecdb6 30%, #ffe6e6 80%, #d9d9d9 100%);
+        background: linear-gradient(to bottom, #f5f7ee 30%, #f9fcea 80%, #d6edcb 100%);
         background-position: center bottom;
         background-size: contain;
         background-repeat: no-repeat; }
