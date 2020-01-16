@@ -55,7 +55,7 @@ html {
 body {
   margin: 0;
   text-align: left;
-  background: linear-gradient(180deg, #f8fcba, #f9fcea, #d6edcb);
+  background: linear-gradient(180deg, #aad4b6, #d8c8df, #c3c5d5);
   background-size: 600% 600%;
   -webkit-animation: AnimationName 25s ease infinite;
   -moz-animation: AnimationName 25s ease infinite;
