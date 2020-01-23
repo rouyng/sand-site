@@ -13,13 +13,13 @@
 | *Freedom*
 | An exhibition by Aeron Bergman & Alejandra Salinas
 | 
-| January 25 – February 8, 2020 
+| January 25–February 8, 2020
 | At SAND Temporary Offices
 | 21601 N 9th Ave
 | Phoenix, Arizona 85027
 | 
 | Opening reception: January 25, 2020 6–9 pm
-| Also open by appointment Jan 26 - Feb 8.
+| Also open by appointment Jan 26–Feb 8.
 | 
 | Contact: info@sand.zone
 | `Facebook event <https://www.facebook.com/events/2582104172114096/>`_
@@ -44,19 +44,19 @@ To most of our wild birds, humans must appear as eccentric and contradictory. By
 
 Works in the exhibition include
 -------------------------------
-*Keywords*, 2020
+*Keywords*, 2020.
 Series of 42 posters, designed after Raymond Williams
 
-*Freedom*, 2020
+*Freedom*, 2020.
 Graphic design on photos by US Forest Service
 
-*Hew To the Line*, 2019
+*Hew To the Line*, 2019.
 HD video, public domain footage US Fish and Wildlife Service, animation
 
-*America First*, 2020
+*America First*, 2020.
 Various media and materials framing US Budget
 
-*551 Bird Species and Subspecies Found in Arizona*, 2020
+*551 Bird Species and Subspecies Found in Arizona*, 2020.
 551 crumpled sheets of office paper
 
 Featured Artists
@@ -81,4 +81,4 @@ SAND Temporary Office is located at 21601 N 9th Ave, Phoenix, Arizona, 85027. Th
 
 Accessibility
 -------------
-The areas of the building hosting this show are wheelchair accessible from on-site and street parking. Due to ongoing renovations, restrooms on site may not be able to accommodate visitors with limited mobility. Please contact us with any other accessibility concerns and we will work to accommodate you.
+The areas of the building hosting this show are wheelchair accessible from on-site and street parking, except for one video work. This video work is on the second floor, up 21 steps with no elevator access. We can screen this video separately either on-site or via the internet on request. Due to ongoing renovations, restrooms on site may not be able to accommodate visitors with limited mobility. Please contact us with any other accessibility concerns and we will work to accommodate you.
