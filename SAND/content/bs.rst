@@ -77,7 +77,7 @@ Bergman is currently Chair of the Low-Residency MFA at the Pacific Northwest Col
 
 Press
 -----
-`Journal.FYI. "Freedom: Aeron Bergman & Alejandra Salinas." January 29, 2020.<https://www.journal.fyi/aeron-begman-alejandra-salinas-sand-temporary-offices>`_
+`Journal.FYI. "Freedom: Aeron Bergman & Alejandra Salinas." January 29, 2020. <https://www.journal.fyi/aeron-begman-alejandra-salinas-sand-temporary-offices>`_
 
 Directions
 ----------
@@ -97,12 +97,14 @@ The areas of the building hosting this show are wheelchair accessible from on-si
 |
 | `*Hew to the Line* (2019) on Vimeo <https://vimeo.com/387763808>`_
 |
+
 .. image:: ../img/bs/bs1_sm.jpg
    :width: 800 px
    :alt: Freedom Installation View
    :target: ../img/bs/bs1.jpg
    :align: center
-| Installation view of *Hew To the Line*, 2019. HD video, public domain footage US Fish and Wildlife Service, animation.
+
+Installation view of *Hew To the Line*, 2019. HD video, public domain footage US Fish and Wildlife Service, animation.
 
 .. image:: ../img/bs/bs2_sm.jpg
    :width: 800 px
@@ -153,6 +155,7 @@ Installation view of *America First*, 2020, and *Enchanted Evergreens*, 2020.
    :alt: Freedom Installation View
    :target: ../img/bs/bs9.jpg
    :align: center
+
 *Enchanted Evergreens*, 2020. Air freshener spray (Enchanted Evergreens scent, Disney Collection), forest sounds.
 
 .. image:: ../img/bs/bs10_sm.jpg
