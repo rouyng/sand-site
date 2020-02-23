@@ -23,16 +23,9 @@ AUTHOR_FEED_RSS = None
 #SLICKNAV Menu
 MENUITEMS = (('SAND', '../index.html'),
 		 	('EVENTS', '../category/events.html'),
+         	('SUPPORT', '../pages/support.html'),
          	('ABOUT', '../pages/about.html'),
-         	('CONTACT', '../pages/contact.html'),
-#        	('EXHIBITIONS', '../category/exhibitions.html'),
          )
-
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
 
 
 # Social widget
