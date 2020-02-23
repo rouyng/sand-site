@@ -41,18 +41,6 @@
     {{ article.content }}
   </div><!-- /.entry-content -->
   <div class="article-share-tags">
-  <div class="end-article-tags">
-  {% if article.tags|length > 0 %}
-      {% if article.tags|length == 1 %}
-      <i class="fa fa-tag"></i>
-      {% else %}
-      <i class="fa fa-tags"></i>
-      {% endif %}
-      {% for tag in article.tags%}
-      <a href="{{SITEURL}}/{{tag.url}}">{{tag}}</a>
-      {% endfor %}
-  {% endif %}
-  </div>
   </div>
 </section>
 <div class="neighbors">

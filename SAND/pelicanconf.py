@@ -29,8 +29,7 @@ MENUITEMS = (('SAND', '../index.html'),
 
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('instagram', 'http://instagram.com/sand.zone'),)
 
 DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = False

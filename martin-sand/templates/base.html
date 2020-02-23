@@ -65,19 +65,17 @@
         <div class="downloads">
 	    {% for site, url in SOCIAL%}
           <a href="{{url}}" class="fa fa-{{site}}"></a>
-	  {% endfor %}
+	    {% endfor %}
         </div>
         {% block header %}
         {% endblock %}
       </header>
         {% block content %}
         {% endblock %}
-      <footer style="text-align: center">
-	  <a href="{{SITEURL}}/index.html">SAND</a>
-<!--	  <div class="right-footer">
-	  <a href="{{SITEURL}}/categories.html" >Categories</a>
-	  <a href="{{SITEURL}}/tags.html" >Tags</a>
-	  </div>-->
-      </footer>
+      <div class="left-footer">
+	     {% for site, url in SOCIAL%}
+       <a href="{{url}}" class="fa fa-{{site}}"></a>
+       {% endfor %}
+	     </div>
 </body>
 </html>
