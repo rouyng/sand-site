@@ -316,20 +316,26 @@ div#content > h1:first-child { display: none; }
 
 @media screen and (max-width: 650px) {
   body { font-size: 16px; 
-        background: linear-gradient(to bottom, #f5f7ee 30%, #f9fcea 80%, #d6edcb 100%);
+        background: linear-gradient(to bottom, #aad4b6 30%, #d8c8df 80%, #c3c5d5 100%);
         background-position: center bottom;
         background-size: contain;
         background-repeat: no-repeat; }
-  #wrapper { margin: 15px; padding: 0; padding-top:40px; }
-  .downloads, .byline {text-align:center; float:none;}
+  section {padding-top: .5em;}
+  #wrapper { margin: 15px;
+            padding: 0;
+            padding-top:40px;
+            max-width: 85%; }
+  .downloads, .byline {text-align:left; float:none; padding:none;}
   .downloads a:first-child {margin-left: 0; }
   header hgroup { border: 0; margin: 0; text-align:center; }
-  header h1 { font-size: 3em; border: 0; padding: 0; padding-top: 0.5em; }
+  h1 { font-size: 2em;}
+  header h1 { border: 0; padding: 0; padding-top: 0.5em; }
   .tagline { border: 0; margin-top: 0.5em; }
   header div { border: 0; }
   footer p { width: 100%; float: none; }
   footer p:last-child { text-align: left; }
   .article-footer {text-align: center;}
+  img { max-width: 90% }
   /* #menu is the original menu */
   #menu {
       display:none;
