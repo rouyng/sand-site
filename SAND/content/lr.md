@@ -48,12 +48,12 @@ Her call sign is KJ7MLQ.
 &nbsp;
 ## Directions  
 
-SAND Temporary Office is located at 21601 N 9th Ave, Phoenix, Arizona, 85027. The building is located on the northwest corner of 9th Ave and Melinda Lane, one block south of Deer Valley Airport. The main entrance is off 9th Ave. On-site parking is available in a small lot off 9th Ave, with additional street parking on 9th Ave and Melinda Ln. Please keep in mind that, outside of the opening reception on Jan. 25, 6-9 pm, the SAND Temporary Office is only open by appointment. Please contact us at info@sand.zone if you would like to view the show.  
+SAND Temporary Office is located at 21601 N 9th Ave, Phoenix, Arizona, 85027. The building is located on the northwest corner of 9th Ave and Melinda Lane, one block south of Deer Valley Airport. The main entrance is off 9th Ave. On-site parking is available in a small lot off 9th Ave, with additional street parking on 9th Ave and Melinda Ln. Please keep in mind that, outside of the opening reception on March 7, the SAND Temporary Office is only open by appointment. Please contact us at [info@sand.zone](mailto:info@sand.zone) if you would like to view the show.  
 
 ![Image of SAND Temporary Office entrance](/img/bs/entrance_small.png)
 
 
 ## Accessibility  
 
-The areas of the building hosting this show are wheelchair accessible from on-site and street parking, except for one video work. This video work is on the second floor, up 21 steps with no elevator access. We can screen this video separately either on-site or via the internet on request. Due to ongoing renovations, restrooms on site may not be able to accommodate visitors with limited mobility. Please contact us with any other accessibility concerns and we will work to accommodate you.
+The areas of the building hosting this show are wheelchair accessible from on-site and street parking. There is one gender neutral wheelchair-accessible restroom on site. Please contact us with any other accessibility concerns and we will work to accommodate you.
 
