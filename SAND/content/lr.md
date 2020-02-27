@@ -37,33 +37,7 @@ IG: [@sand.zone](https://www.instagram.com/sand.zone/)
 
 QRV is a Q-signal or radio shorthand that means, "I am ready. Are you ready?"  
 &nbsp;
-
-  
-
-## Works in the exhibition include
-
-*Crab Reliquary*, 2020. PLA filament, 24k gold. 5 x 5 x 3 in.
-
-*Censer*, 2020. PLA filament, bronze. 4 ½ x 4 ½ in. 
-
-*Staff Accretion|Mast Prototype*, 2020. Aluminum, white oak, zip ties, rope, purple olive snail shells, ultralight ripstop. 6 x 6 x 6 ft. variable.
-
-*Mast*, 2020. Fiberglass, steel, plastic. 2 ½ x 300 in.
-
-*Ghost Snake*, 2020. Silk tulle. 300 x 48 x 0.03125 in.
-
-*WCWUWWN/WFWWNWWA*, 2020. Aluminum. 4 x 2 ½ x ¼ in.
-
-*Salted Crest/Monarch Shield*, 2020. Acrylic, salt, pine, honey. 8 x 10 x ¼ in.
-
-*Scaled Rattle*, 2020. PLA filament, white oak, aluminum. 10 x 1 x 72 in.
-
-*Quarter Wave Ground Plane 2 Meter Antenna*, 2020. Aluminum, steel, copper. 8 x 8 x 8 in.
-
-*Figure 8*, 2020. Inkjet print. 11 x 17 in.
-&nbsp;
-
-  
+ 
 
 ## Featured Artist  
 
