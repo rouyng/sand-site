@@ -1,6 +1,7 @@
 Title: QRV, March 7–March 28, 2020
 Date: 2020-02-25 13:00
 Slug: lisa-radon
+Category: EVENTS
 Authors: SAND
 Summary: *QRV*, an exhibition by Lisa Radon. March 7–March 28, 2020 at SAND Temporary Office in Phoenix, AZ.
 
@@ -57,3 +58,65 @@ SAND Temporary Office is located at 21601 N 9th Ave, Phoenix, Arizona, 85027. Th
 
 The areas of the building hosting this show are wheelchair accessible from on-site and street parking. There is one gender neutral wheelchair-accessible restroom on site. Please contact us with any other accessibility concerns and we will work to accommodate you.
 
+
+<a href="/img/lr/lr1.jpg"><img src="/img/lr/lr1_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr3.jpg"><img src="/img/lr/lr3_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr4.jpg"><img src="/img/lr/lr4_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr5.jpg"><img src="/img/lr/lr5_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr7.jpg"><img src="/img/lr/lr7_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr8.jpg"><img src="/img/lr/lr8_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr9.jpg"><img src="/img/lr/lr9_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr10.jpg"><img src="/img/lr/lr10_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr12.jpg"><img src="/img/lr/lr12_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr13.jpg"><img src="/img/lr/lr13_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr14.jpg"><img src="/img/lr/lr14_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr15.jpg"><img src="/img/lr/lr15_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr16.jpg"><img src="/img/lr/lr16_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr17.jpg"><img src="/img/lr/lr17_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr18.jpg"><img src="/img/lr/lr18_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr19.jpg"><img src="/img/lr/lr19_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr21.jpg"><img src="/img/lr/lr21_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr22.jpg"><img src="/img/lr/lr22_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr25.jpg"><img src="/img/lr/lr25_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr27.jpg"><img src="/img/lr/lr27_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr28.jpg"><img src="/img/lr/lr28_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr29.jpg"><img src="/img/lr/lr29_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr30.jpg"><img src="/img/lr/lr30_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr31.jpg"><img src="/img/lr/lr31_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr34.jpg"><img src="/img/lr/lr34_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr36.jpg"><img src="/img/lr/lr36_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr37.jpg"><img src="/img/lr/lr37_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr38.jpg"><img src="/img/lr/lr38_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr40.jpg"><img src="/img/lr/lr40_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr41.jpg"><img src="/img/lr/lr41_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
+
+<a href="/img/lr/lr42.jpg"><img src="/img/lr/lr42_sm.jpg" alt="Lisa Radon install image" width="800" /></a>
