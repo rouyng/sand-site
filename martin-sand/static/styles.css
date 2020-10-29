@@ -40,10 +40,10 @@ th {
 dt{ font-weight:bold;}
 
 ::selection {
-  background: ##d6edcb; /* WebKit/Blink Browsers */
+  background: #d6edcb; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: ##d6edcb; /* Gecko Browsers */
+  background: #d6edcb; /* Gecko Browsers */
 }
 /*--------------------------------
   Layout
