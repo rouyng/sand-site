@@ -1,0 +1,33 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 2
+    - uses: actions/setup-python@v1
+      with:
+        python-version: 3.9
+    - name: Install pip, pipenv, configure pipenv
+      run: |
+        python -m pip install --upgrade pip
+        pip install pipenv
+        pipenv sync
+    - name: Build the site
+      run: pipenv run pelican content
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      with:
+        ftp-server: ${{ secrets.FTP_SERVER }}
+        ftp-username: ${{ secrets.FTP_USER }}
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: output/
