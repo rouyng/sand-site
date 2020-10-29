@@ -10,7 +10,7 @@ SITEURL = 'http://www.sand.zone'
 THEME = 'themes/martin-sand'
 
 PATH = 'content'
-STATIC_PATHS = ['img']
+STATIC_PATHS = ['img', 'files']
 
 TIMEZONE = 'America/Phoenix'
 
