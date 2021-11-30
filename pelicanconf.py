@@ -37,6 +37,8 @@ SOCIAL = (('instagram', 'http://instagram.com/sand.zone'),)
 DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-GOOGLE_ANALYTICS = 'UA-129773634-1'
+GOOGLE_ANALYTICS = False
+# add url for use in plausible.io analytics tag
+PLAUSIBLE = "sand.zone"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
