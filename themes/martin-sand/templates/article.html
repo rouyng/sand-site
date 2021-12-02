@@ -3,20 +3,14 @@
         <hgroup>
           <h1>{{article.title}}</h1>
   <footer class="article-footer">
-    {% if article.authors %}
-    <address class="vcard author">
-      By {% for author in article.authors %}
-          <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-        {% endfor %}
-    </address>
-    {% endif %}
-    <abbr class="published" title="{{ article.date.isoformat() }}">
-      {{ article.date.strftime(" on %d.%m.%Y") }}
-    </abbr>
+
+    <p class="published">
+    Posted {{ article.date.strftime("%B %d, %Y") }}
+    </p>
 	{% if article.modified %}
-    <abbr class="modified" title="{{ article.modified.isoformat() }}">
-      {{ article.locale_modified }}
-    </abbr>
+    <p class="modified">
+    Modified {{ article.locale_modified }}
+    </p>
 	{% endif %}
   </footer><!-- /.post-info -->
         </hgroup>

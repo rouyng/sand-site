@@ -18,7 +18,7 @@
                         <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
                     {% endfor %}
                     </address> -->
-                    <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.date.strftime(" ON %m.%d.%Y") }} </abbr>
+                    <p class="published"> Posted {{ article.date.strftime("%B %d, %Y") }} </p>
                 </footer><!-- /.post-info -->
 	    </header>
                 <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->

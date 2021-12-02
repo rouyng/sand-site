@@ -87,7 +87,7 @@ header, section, footer, a {
 
 header {
   clear: both;
-  padding-bottom: 2.1em;
+  padding-bottom: 1.5em;
   padding-top: 1em;
 }
 
@@ -223,10 +223,11 @@ address{
     font-style: normal;
 }
 
-.post-info abbr, address, .article-footer abbr, address{
+.post-info p, address, .article-footer abbr, address{
     color: #000;
     /* background-color: #fffff5; */
-    padding: 0.2em;
+    padding: 0;
+    margin-bottom: 0;
 }
 
 .post-info a, .article-footer a{
