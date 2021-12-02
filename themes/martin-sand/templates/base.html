@@ -65,12 +65,10 @@
             {% endfor %}
           {% endif %}
         {% endif %}
-        </ul></nav><!-- /#menu -->
-        <div class="downloads">
-	    {% for site, url in SOCIAL%}
-          <a href="{{url}}" class="fa fa-{{site}}"></a>
+        {% for site, url in SOCIAL%}
+            <li><a href="{{url}}" class="fa fa-{{site}}"></a></li>
 	    {% endfor %}
-        </div>
+        </ul></nav><!-- /#menu -->
         {% block header %}
         {% endblock %}
       </header>
