@@ -7,8 +7,8 @@
 --------------------------------*/
 
 body              { font: 100 1.25em 'Open Sans', sans-serif; color: #000; }
-a                 { text-decoration: none; color: inherit; border-bottom: 2px dashed #287207; }
-a:hover           { color: #287207; border-bottom: 2px dashed #287207; }
+a                 { text-decoration: none; color: inherit; border-bottom: 1px solid #287207; }
+a:hover           { color: #287207; border-bottom: #287207; }
 em                { font-style: italic; }
 strong            { font-weight: 600; }
 h1                { font-family: 'Rosario', sans-serif; font-size: 3em; font-weight: 900; color: #222; margin: 1em 0; line-height: 1.33em; letter-spacing: 0.05em;
@@ -47,13 +47,10 @@ html {
 }
 
 body {
-  margin: 0;
-  text-align: left;
-  background: linear-gradient(180deg, #ececec, #eee6e1, #eeece1);
-  background-size: 600% 600%;
-  -webkit-animation: AnimationName 45s ease infinite;
-  -moz-animation: AnimationName 45s ease infinite;
-    animation: AnimationName 45s ease infinite;
+    margin: 0;
+    text-align: left;
+    background-size: contain;
+    background: linear-gradient(to bottom, #ececec 30%, #eee6e1 80%, #eeece1 100%) no-repeat center bottom;
 }
 
   @-webkit-keyframes AnimationName {
@@ -100,7 +97,7 @@ header a {
 
 header a:hover {
   border-bottom: none;
-  color: #389d09;
+  color: #287207;
 }
 
 .byline{
@@ -272,7 +269,7 @@ footer {
   overflow: hidden;
   text-align: left;
   font-size: medium;
-  text-transform: normal;
+  text-transform: none;
   letter-spacing: 0.1em;
 }
 footer address{
@@ -308,11 +305,10 @@ div#content > h1:first-child { display: none; }
 }
 
 @media screen and (max-width: 650px) {
-  body { font-size: 16px; 
-        background: linear-gradient(to bottom, #aad4b6 30%, #d8c8df 80%, #c3c5d5 100%);
-        background-position: center bottom;
-        background-size: contain;
-        background-repeat: no-repeat; }
+  body { font-size: 16px;
+      background-size: contain;
+      background: linear-gradient(to bottom, #ececec 30%, #eee6e1 80%, #eeece1 100%) no-repeat center bottom;
+  }
   section {padding-top: .5em;}
   #wrapper { margin: 15px;
             padding: 0;
