@@ -7,8 +7,8 @@
 --------------------------------*/
 
 body              { font: 100 1.25em 'Open Sans', sans-serif; color: #000; }
-a                 { text-decoration: none; color: inherit; border-bottom: 2px dashed #0de300; }
-a:hover           { color: #0de300; border-bottom: 2px dashed #0de300; }
+a                 { text-decoration: none; color: inherit; border-bottom: 2px dashed #287207; }
+a:hover           { color: #287207; border-bottom: 2px dashed #287207; }
 em                { font-style: italic; }
 strong            { font-weight: 600; }
 h1                { font-family: 'Rosario', sans-serif; font-size: 3em; font-weight: 900; color: #222; margin: 1em 0; line-height: 1.33em; letter-spacing: 0.05em;
@@ -39,12 +39,6 @@ th {
 }
 dt{ font-weight:bold;}
 
-::selection {
-  background: #d6edcb; /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  background: #d6edcb; /* Gecko Browsers */
-}
 /*--------------------------------
   Layout
 --------------------------------*/
@@ -55,11 +49,11 @@ html {
 body {
   margin: 0;
   text-align: left;
-  background: linear-gradient(180deg, #aad4b6, #d8c8df, #c3c5d5);
+  background: linear-gradient(180deg, #ececec, #eee6e1, #eeece1);
   background-size: 600% 600%;
-  -webkit-animation: AnimationName 25s ease infinite;
-  -moz-animation: AnimationName 25s ease infinite;
-    animation: AnimationName 25s ease infinite;
+  -webkit-animation: AnimationName 45s ease infinite;
+  -moz-animation: AnimationName 45s ease infinite;
+    animation: AnimationName 45s ease infinite;
 }
 
   @-webkit-keyframes AnimationName {
@@ -106,7 +100,7 @@ header a {
 
 header a:hover {
   border-bottom: none;
-  color: #0de300;
+  color: #389d09;
 }
 
 .byline{

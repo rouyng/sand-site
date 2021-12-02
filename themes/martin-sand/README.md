@@ -1,3 +1,5 @@
+**The theme used on sand.zone is a modified version of the [martin-pelican theme](https://github.com/cpaulik/martin-pelican/) by cpaulik. The original README for martin-pelican follows:**
+
 #Martin theme for Pelican static site generator
 
 This is a port of the Martin theme by Allison House to work with the [Pelican static site generator](http://blog.getpelican.com/)
