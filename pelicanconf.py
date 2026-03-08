@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'SAND AZ'
 SITENAME = 'SAND'
 TAGLINE = 'Organizing art in Phoenix, AZ, USA'
-SITEURL = 'http://www.sand.zone'
+SITEURL = 'http://sand.zone'
 
 THEME = 'themes/martin-sand'
 
