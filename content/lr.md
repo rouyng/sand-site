@@ -1,4 +1,4 @@
-Title: QRV, March 7–March 28, 2020
+Title: *QRV*, March 7–March 28, 2020
 Date: 2020-02-25 13:00
 Slug: lisa-radon
 Category: EVENTS
