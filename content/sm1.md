@@ -20,5 +20,5 @@ In May 2020, during widespread disruptions due to the COVID-19 pandemic, we bega
 <a href="/img/sm/sm1.png"><img src="/img/sm/sm1.png" alt="SAND Mail Round 1 Map" width="1000" /></a>
 
 
-Contact: [info@sand.zone](mailto:info@sand.zone)  
+Contact: [sandzoneaz@gmail.com](mailto:sandzoneaz@gmail.com)  
 IG: [@sand.zone](https://www.instagram.com/sand.zone/)  

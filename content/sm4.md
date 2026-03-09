@@ -32,6 +32,6 @@ We send mail to both US-based and international addresses and these options are 
 ## Round 4 was mailed out to 47 friends here:
 <a href="/img/sm/sm4.png"><img src="/img/sm/sm4.png" alt="SAND Mail Round 4 Map" width=95% /></a>
 
-Contact: [info@sand.zone](mailto:info@sand.zone)  
+Contact: [sandzoneaz@gmail.com](mailto:sandzoneaz@gmail.com)  
 IG: [@sand.zone](https://www.instagram.com/sand.zone/)  
 Patreon: [https://www.patreon.com/sandzone](https://www.patreon.com/sandzone)

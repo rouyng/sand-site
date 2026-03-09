@@ -21,7 +21,7 @@
 | Opening reception: June 22, 6–10 pm
 | Also open by appointment
 | 
-| Contact: info@sand.zone
+| Contact: sandzoneaz@gmail.com
 | Facebook event: https://www.facebook.com/events/1186561921523759/
 | 
 | `Press Release <../files/Waiting Room Press Release.pdf>`_

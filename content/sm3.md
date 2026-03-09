@@ -19,5 +19,5 @@ In May 2020, during widespread disruptions due to the COVID-19 pandemic, we bega
 ## Round 3 was mailed out to 79 friends here:
 <a href="/img/sm/sm3.png"><img src="/img/sm/sm3.png" alt="SAND Mail Round 3 Map" width=95% /></a>
 
-Contact: [info@sand.zone](mailto:info@sand.zone)  
+Contact: [sandzoneaz@gmail.com](mailto:sandzoneaz@gmail.com)  
 IG: [@sand.zone](https://www.instagram.com/sand.zone/)  

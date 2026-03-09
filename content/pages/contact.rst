@@ -6,7 +6,7 @@ Contact
 
 You can contact SAND via email:
 
-info@sand.zone
+sandzoneaz@gmail.com
 
 .. raw:: html
 

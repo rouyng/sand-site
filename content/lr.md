@@ -17,7 +17,7 @@ Opening reception: March 7, 7–9 pm
 Also open by appointment  
 [Facebook event](https://www.facebook.com/events/211674006620248/)  
 
-Contact: [info@sand.zone](mailto:info@sand.zone)  
+Contact: [sandzoneaz@gmail.com](mailto:sandzoneaz@gmail.com)  
 IG: [@sand.zone](https://www.instagram.com/sand.zone/)  
 
 &nbsp;
@@ -49,7 +49,7 @@ Her call sign is KJ7MLQ.
 &nbsp;
 ## Directions  
 
-SAND Temporary Office is located at 21601 N 9th Ave, Phoenix, Arizona, 85027. The building is located on the northwest corner of 9th Ave and Melinda Lane, one block south of Deer Valley Airport. The main entrance is off 9th Ave. On-site parking is available in a small lot off 9th Ave, with additional street parking on 9th Ave and Melinda Ln. Please keep in mind that, outside of the opening reception on March 7, the SAND Temporary Office is only open by appointment. Please contact us at [info@sand.zone](mailto:info@sand.zone) if you would like to view the show.  
+SAND Temporary Office is located at 21601 N 9th Ave, Phoenix, Arizona, 85027. The building is located on the northwest corner of 9th Ave and Melinda Lane, one block south of Deer Valley Airport. The main entrance is off 9th Ave. On-site parking is available in a small lot off 9th Ave, with additional street parking on 9th Ave and Melinda Ln. Please keep in mind that, outside of the opening reception on March 7, the SAND Temporary Office is only open by appointment. Please contact us at [sandzoneaz@gmail.com](mailto:sandzoneaz@gmail.com) if you would like to view the show.  
 
 ![Image of SAND Temporary Office entrance](/img/bs/entrance_small.png)
 
